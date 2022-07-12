@@ -114,8 +114,6 @@ button:active {
 }
 ```
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Its just a practice challenge to get you thinking about how to build out the component and how to style it.So in future I am not going to work on this project anymore.
