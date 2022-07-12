@@ -86,11 +86,13 @@ scroll-behavior: auto;
   }
 } */
 .attribution {
-            font-size: 11px;
+           padding-top: 5rem;
+            font-size: 8px;
             text-align: center;
+            color: hsl(228, 12%, 48%);
         }
         .attribution a {
-            color: hsl(228, 45%, 44%);
+            color: hsl(227, 24%, 34%);
         }
 
 body{
@@ -128,7 +130,7 @@ body{
   grid-template-columns: 50% 50%;
   width: 45%;
   height: auto;
-  margin: 7rem 0 4.7rem 0;
+  margin: 8rem 0 4.7rem 0;
   box-shadow: 1rem 1rem 1rem  1rem rgba(0, 0, 0, 0.1); 
   border-radius: 1rem; 
 }
