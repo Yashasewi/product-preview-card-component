@@ -138,4 +138,3 @@ Its just a practice challenge to get you thinking about how to build out the com
 
 I alone worked on this project. I did not receive any outside help from anyone.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
